@@ -16,8 +16,8 @@ A high-performance, multi-threaded 3D rendering engine developed in modern C++23
    # Standard configuration
    cmake --preset default
 
-  # Configuration with Clang-Tidy enabled for static analysis
-  cmake --preset clang-tidy
+   # Configuration with Clang-Tidy enabled for static analysis
+   cmake --preset clang-tidy
    ```
 2. Compile the project:
 
